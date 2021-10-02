@@ -12,3 +12,7 @@ This project aims to find a better keyboard using genetic algorithms.
 ## Usage
 
 Put all the documents you wrote in the text data folder and run main.py.
+
+## Running Images
+
+![image](https://user-images.githubusercontent.com/87184009/135722701-956d13f2-5927-4c03-b86a-c5370e35bdbb.png)
