@@ -11,7 +11,8 @@ For these reasons, this project aims to find a better keyboard using genetic alg
 
 ## Usage
 
-Put all the documents you wrote in the text data folder and run main.py.
+Put all the documents you wrote in the text data folder and run main.py. \
+Then it will recommend a keyboard that suits you based on the documents you have written so far.
 
 ## Running Images
 
